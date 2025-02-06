@@ -74,6 +74,3 @@ The **Fitness Tracker** is a full-stack web application designed to help users l
 
 ### Authentication
 - **JWT (JSON Web Token)**: Secure login system  
-
-
-## Thank You
